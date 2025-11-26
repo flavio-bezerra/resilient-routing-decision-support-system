@@ -1,6 +1,6 @@
 # 🚛 Sistema de Suporte à Decisão de Roteamento Resiliente
 
-**Projeto de Portfólio Sênior** | _Otimização Logística Avançada com Simulação Climática Dinâmica_
+![Streamlit App Preview](streamlit-image.png)
 
 ## 📌 Visão Geral
 
