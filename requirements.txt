@@ -1,0 +1,11 @@
+streamlit
+ortools
+simpy
+pandas
+numpy
+scipy
+pydeck
+pyngrok
+ipykernel
+matplotlib
+seaborn
