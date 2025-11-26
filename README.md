@@ -1,6 +1,6 @@
 # 🚛 Sistema de Suporte à Decisão de Roteamento Resiliente
 
-![Streamlit App Preview](streamlit-image.png)
+![Streamlit App Preview](streamlit_video.gif)
 
 ## 📌 Visão Geral
 
